@@ -1,0 +1,12 @@
+library widget_ext;
+export 'extensions/align_extension.dart';
+export 'extensions/constrained_box_extension.dart';
+export 'extensions/decorated_box_extension.dart';
+export 'extensions/gesture_detector_extension.dart';
+export 'extensions/icon_extension.dart';
+export 'extensions/into_extension.dart';
+export "extensions/list_extension.dart";
+export 'extensions/padding_extension.dart';
+export 'extensions/text_extension.dart';
+export 'extensions/transform_extension.dart';
+export 'extensions/visibility_extension.dart';

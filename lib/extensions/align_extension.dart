@@ -1,3 +1,4 @@
+library widget_ext;
 import 'package:flutter/cupertino.dart';
 
 extension AlignExtension on Align {
